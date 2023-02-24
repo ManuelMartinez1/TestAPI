@@ -1,0 +1,30 @@
+[
+    {
+        "id":"1",
+        "orden":[
+            {
+                "nombre":"pulpo y camarones a la bacanora",
+                "precio":"240"
+            },
+            {
+                "nombre":"pulpo y camarones a la bacanora",
+                "precio":"240"
+            },
+            {
+                "nombre":"pulpo y camarones a la bacanora",
+                "precio":"240"
+            }
+        ],
+        "cuenta":""
+    },
+    {
+        "id":"2",
+        "orden":[
+            {
+                "nombre":"cereal",
+                "precio":"50"
+            }
+        ],
+        "cuenta":""
+    }
+]

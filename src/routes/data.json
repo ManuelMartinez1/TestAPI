@@ -1,0 +1,68 @@
+[
+    {
+        "id":"1",
+        "nombre":"pancakes",
+        "ingredientes":[
+            "harina de hotcakes","leche","huevo"
+        ],
+        "estatus":"disponible",
+        "tipo":"desayuno",
+        "cantidad":"1",
+        "precio":"100"
+        },
+    {
+        "id":"2",
+        "nombre":"cereal",
+        "ingredientes":[
+            "choco krispis","leche"
+        ],
+        "estatus":"disponible",
+        "tipo":"desayuno",
+        "cantidad":"1",
+        "precio":"50"
+    },
+    {
+        "id":"3",
+        "nombre":"pulpo y camarones a la bacanora",
+        "ingredientes":[
+            "pulpo","camaron","bacanora","finas hierbas"
+        ],
+        "estatus":"disponible",
+        "tipo":"entrada",
+        "cantidad":"4",
+        "precio":"240"
+    },
+    {
+        "id":"4",
+        "nombre":"pesto bagel",
+        "ingredientes":[
+            "pollito","salsa pesto","everything bagel","quesito derratido","tomatito"
+        ],
+        "estatus":"disponible",
+        "tipo":"comidafuerte",
+        "cantidad":"2",
+        "precio":"120"
+    },
+    {
+        "id":"5",
+        "nombre":"chilimix",
+        "ingredientes":[
+            "gusanitos","panditas","xtremes","tajin","miguelito"
+        ],
+        "estatus":"disponible",
+        "tipo":"postre",
+        "cantidad":"2",
+        "precio":"60"
+    },
+    {
+        "id":"6",
+        "nombre":"chilaquiles",
+        "ingredientes":[
+            "tortilla de maiz","salsa VERDE","salsa habanero","quesito derratido","cebolla","cilantro"
+        ],
+        "estatus":"disponible",
+        "tipo":"desayuno",
+        "cantidad":"2",
+        "precio":"120"
+    }
+]

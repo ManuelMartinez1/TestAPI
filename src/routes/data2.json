@@ -1,0 +1,28 @@
+{
+    "id":"",
+    "desayuno":{
+        "id":"",
+        "nombre":"",
+        "precio":""
+    },
+    "comidafuerte":{
+        "id":"",
+        "nombre":"",
+        "precio":""
+    },
+    "entrada":{
+        "id":"",
+        "nombre":"",
+        "precio":""
+    },
+    "bebida":{
+        "id":"",
+        "nombre":"",
+        "precio":""
+    },
+    "postre":{
+        "id":"",
+        "nombre":"",
+        "precio":""
+    }
+}
